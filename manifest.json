@@ -1,25 +1,69 @@
 {
+  "2365": {
+    "id": "2365",
+    "title": "RSA Speedrun 2",
+    "challenge_url": "https://dreamhack.io/wargame/challenges/2365",
+    "category": "crypto",
+    "difficulty": "2",
+    "has_download": false,
+    "description": "문제 설명p랑 q를 크게 하면 더 어렵겠죠?이 참에 제한 시간도 더 줄여버리죠!문제 생성에 시간이 오래 걸릴 수 있습니다.플래그 형식은 DH{} 입니다.Translate",
+    "first_seen": "2025-10-19T20:45:37.086055+00:00",
+    "last_seen": "2025-10-19T20:45:37.086055+00:00"
+  },
+  "2364": {
+    "id": "2364",
+    "title": "easy server side",
+    "challenge_url": "https://dreamhack.io/wargame/challenges/2364",
+    "category": "web",
+    "difficulty": "16",
+    "has_download": false,
+    "description": "문제 설명server side를 연습해봐요!2025.10.19 03:03 언인텐 수정Translate",
+    "first_seen": "2025-10-19T20:45:40.376009+00:00",
+    "last_seen": "2025-10-19T20:45:40.376009+00:00"
+  },
+  "2363": {
+    "id": "2363",
+    "title": "RSA Speedrun",
+    "challenge_url": "https://dreamhack.io/wargame/challenges/2363",
+    "category": "crypto",
+    "difficulty": "9",
+    "has_download": false,
+    "description": "문제 설명시간은 금입니다. 빠르게 가보죠Translate",
+    "first_seen": "2025-10-19T20:45:43.470857+00:00",
+    "last_seen": "2025-10-19T20:45:43.470857+00:00"
+  },
+  "2361": {
+    "id": "2361",
+    "title": "ToyPacked",
+    "challenge_url": "https://dreamhack.io/wargame/challenges/2361",
+    "category": "reversing",
+    "difficulty": "6",
+    "has_download": false,
+    "description": "문제 설명I modified a c toy compiler to add packing functionality.Reversing is like peeling an onion, can you uncover the first layer?Translate",
+    "first_seen": "2025-10-19T20:45:46.593482+00:00",
+    "last_seen": "2025-10-19T20:45:46.593482+00:00"
+  },
   "2358": {
     "id": "2358",
     "title": "AESthetic",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2358",
     "category": "crypto",
-    "difficulty": "2",
+    "difficulty": "10",
     "has_download": false,
     "description": "문제 설명AESthetic플래그의 형식은DH{...}입니다.Translate",
     "first_seen": "2025-10-13T04:52:16.586533+00:00",
-    "last_seen": "2025-10-13T04:53:42.207462+00:00"
+    "last_seen": "2025-10-19T20:45:46.593680+00:00"
   },
   "2357": {
     "id": "2357",
     "title": "Welcome Welcome",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2357",
     "category": "web",
-    "difficulty": "12",
+    "difficulty": "57",
     "has_download": false,
     "description": "문제 설명안녕 안녕~Translate",
     "first_seen": "2025-10-13T04:52:19.563464+00:00",
-    "last_seen": "2025-10-13T04:53:42.207475+00:00"
+    "last_seen": "2025-10-19T20:45:46.593695+00:00"
   },
   "2356": {
     "id": "2356",
@@ -30,95 +74,95 @@
     "has_download": false,
     "description": "문제 설명CSRF 고수가 될 수 있는 문제Translate",
     "first_seen": "2025-10-13T04:52:22.440319+00:00",
-    "last_seen": "2025-10-13T04:53:42.207484+00:00"
+    "last_seen": "2025-10-19T20:45:46.593705+00:00"
   },
   "2355": {
     "id": "2355",
     "title": "zipzip",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2355",
     "category": "misc",
-    "difficulty": "5",
+    "difficulty": "18",
     "has_download": false,
     "description": "문제 설명장난질Translate",
     "first_seen": "2025-10-13T04:52:25.743960+00:00",
-    "last_seen": "2025-10-13T04:53:42.207493+00:00"
+    "last_seen": "2025-10-19T20:45:46.593711+00:00"
   },
   "2354": {
     "id": "2354",
     "title": "[Linux] 'root'square",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2354",
     "category": "misc",
-    "difficulty": "11",
+    "difficulty": "21",
     "has_download": false,
     "description": "문제 설명Rootsquare has a flag! Let's steal the flag.NoteConfiguration changed. Sorry for your inconvenience.Translate",
     "first_seen": "2025-10-11T06:49:44.273821+00:00",
-    "last_seen": "2025-10-13T04:53:42.207496+00:00"
+    "last_seen": "2025-10-19T20:45:46.593717+00:00"
   },
   "2353": {
     "id": "2353",
     "title": "Lights out",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2353",
     "category": "misc",
-    "difficulty": "4",
+    "difficulty": "6",
     "has_download": false,
     "description": "문제 설명플래그 형식은 DH{} 입니다.Translate",
     "first_seen": "2025-10-11T06:49:47.116655+00:00",
-    "last_seen": "2025-10-13T04:53:42.207499+00:00"
+    "last_seen": "2025-10-19T20:45:46.593723+00:00"
   },
   "2352": {
     "id": "2352",
     "title": "EASY ROP",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2352",
     "category": "pwnable",
-    "difficulty": "12",
+    "difficulty": "19",
     "has_download": false,
     "description": "문제 설명DescriptionThis is simple ROP challenge. You can solve it while 30 seconds lol.Translate",
     "first_seen": "2025-10-11T06:49:51.734188+00:00",
-    "last_seen": "2025-10-13T04:53:42.207501+00:00"
+    "last_seen": "2025-10-19T20:45:46.593729+00:00"
   },
   "2350": {
     "id": "2350",
     "title": "Random Gallery",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2350",
     "category": "web",
-    "difficulty": "21",
+    "difficulty": "27",
     "has_download": false,
     "description": "문제 설명랜덤한 이미지를 보여드립니다.Translate",
     "first_seen": "2025-10-11T06:49:54.949411+00:00",
-    "last_seen": "2025-10-13T04:53:42.207512+00:00"
+    "last_seen": "2025-10-19T20:45:46.593734+00:00"
   },
   "2349": {
     "id": "2349",
     "title": "Cross The Bridge",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2349",
     "category": "misc",
-    "difficulty": "8",
+    "difficulty": "11",
     "has_download": false,
     "description": "문제 설명가장 빠르게 다리를 건너는 방법은?Translate",
     "first_seen": "2025-10-11T06:49:58.798588+00:00",
-    "last_seen": "2025-10-13T04:53:42.207516+00:00"
+    "last_seen": "2025-10-19T20:45:46.593739+00:00"
   },
   "2348": {
     "id": "2348",
     "title": "ShareProfile Revenge",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2348",
     "category": "web",
-    "difficulty": "8",
+    "difficulty": "10",
     "has_download": false,
     "description": "문제 설명취약점을 고쳤습니다.ShareProfileTranslate",
     "first_seen": "2025-10-11T06:50:02.280811+00:00",
-    "last_seen": "2025-10-13T04:53:42.207519+00:00"
+    "last_seen": "2025-10-19T20:45:46.593744+00:00"
   },
   "2347": {
     "id": "2347",
     "title": "ShareProfile",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2347",
     "category": "web",
-    "difficulty": "33",
+    "difficulty": "53",
     "has_download": false,
     "description": "문제 설명당신의 프로필을 공유하세요!Translate",
     "first_seen": "2025-10-11T06:50:06.685654+00:00",
-    "last_seen": "2025-10-13T04:53:42.207521+00:00"
+    "last_seen": "2025-10-19T20:45:46.593750+00:00"
   },
   "2346": {
     "id": "2346",
@@ -129,73 +173,73 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #19 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionElliptic curves are interesting!Elliptic curves are cubic!Then... How about quartic curves?Translate",
     "first_seen": "2025-10-11T06:50:09.967277+00:00",
-    "last_seen": "2025-10-13T04:53:42.207523+00:00"
+    "last_seen": "2025-10-19T20:45:46.593756+00:00"
   },
   "2344": {
     "id": "2344",
     "title": "HTTP File Reader",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2344",
     "category": "web",
-    "difficulty": "87",
+    "difficulty": "91",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #19 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionSimple file read sevice.Translate",
     "first_seen": "2025-10-11T06:50:13.519536+00:00",
-    "last_seen": "2025-10-13T04:53:42.207525+00:00"
+    "last_seen": "2025-10-19T20:45:46.593761+00:00"
   },
   "2343": {
     "id": "2343",
     "title": "Vernichtet",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2343",
     "category": "reversing",
-    "difficulty": "59",
+    "difficulty": "69",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #19 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionI destroyed the binary, but it still works :>Translate",
     "first_seen": "2025-10-11T06:50:16.912726+00:00",
-    "last_seen": "2025-10-13T04:53:42.207527+00:00"
+    "last_seen": "2025-10-19T20:45:46.593766+00:00"
   },
   "2342": {
     "id": "2342",
     "title": "butterscotch",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2342",
     "category": "pwnable",
-    "difficulty": "5",
+    "difficulty": "6",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #19 (🚩Div1)\n      에 출제된 문제입니다.문제 설명I built my very own custom PCI driver inside QEMU...Wanna give it a try and see what it does? 😏(P.S. Let me know if you find a way to talk to the host. You won’t, right?)Translate",
     "first_seen": "2025-10-11T06:50:19.893237+00:00",
-    "last_seen": "2025-10-13T04:53:42.207529+00:00"
+    "last_seen": "2025-10-19T20:45:46.593772+00:00"
   },
   "2341": {
     "id": "2341",
     "title": "이상한 랜섬웨어 - Revenge",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2341",
     "category": "crypto",
-    "difficulty": "3",
+    "difficulty": "4",
     "has_download": false,
     "description": "문제 설명이상한 랜섬웨어의 변종에 걸려서 또 제 파일이 암호화 되었어요. 또 중요한 발표를 앞두고요.발표 자료의 첫 글자가W로 시작한다는 것밖에 기억이 나지 않아요. 어떡하죠?flag의 형식은DH{...}입니다.Translate",
     "first_seen": "2025-10-11T06:50:22.656485+00:00",
-    "last_seen": "2025-10-13T04:53:42.207531+00:00"
+    "last_seen": "2025-10-19T20:45:46.593778+00:00"
   },
   "2340": {
     "id": "2340",
     "title": "주작",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2340",
     "category": "crypto",
-    "difficulty": "3",
+    "difficulty": "5",
     "has_download": false,
     "description": "문제 설명플래그 형식은 DH{...} 입니다.Translate",
     "first_seen": "2025-10-11T06:50:25.736178+00:00",
-    "last_seen": "2025-10-13T04:53:42.207532+00:00"
+    "last_seen": "2025-10-19T20:45:50.158114+00:00"
   },
   "2339": {
     "id": "2339",
     "title": "call",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2339",
     "category": "web",
-    "difficulty": "55",
+    "difficulty": "68",
     "has_download": false,
     "description": "문제 설명callbackTranslate",
     "first_seen": "2025-10-11T06:50:29.337209+00:00",
-    "last_seen": "2025-10-13T04:53:42.207534+00:00"
+    "last_seen": "2025-10-19T20:45:50.158128+00:00"
   },
   "2337": {
     "id": "2337",
@@ -206,7 +250,7 @@
     "has_download": false,
     "description": "문제 설명본 문제는 덕영고등학교 CTF에서 출제된 pwn문제입니다.플래그 형식 : NT{...}Translate",
     "first_seen": "2025-10-11T06:50:32.818533+00:00",
-    "last_seen": "2025-10-13T04:53:42.207536+00:00"
+    "last_seen": "2025-10-19T20:45:50.158136+00:00"
   },
   "2335": {
     "id": "2335",
@@ -217,40 +261,40 @@
     "has_download": false,
     "description": "문제 설명해당 문제는 제22회 청소년 정보보호 페스티벌 예선에 출제된 문제입니다.\n플래그 형식은 YISF{…}입니다.CVE-2024-46740into the userland???Run About Binder Transaction!(Very Very Easy Patch)Translate",
     "first_seen": "2025-10-11T06:50:36.201621+00:00",
-    "last_seen": "2025-10-13T04:53:42.207538+00:00"
+    "last_seen": "2025-10-19T20:45:50.158145+00:00"
   },
   "2333": {
     "id": "2333",
     "title": "oob-revenge",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2333",
     "category": "pwnable",
-    "difficulty": "3",
+    "difficulty": "5",
     "has_download": false,
     "description": "문제 설명Descriptionoob문제에 보안을 조금 더 강화해 봤습니다!zellij와 함께 포너블을 즐겨주세요 😀꼭 https 프로토콜로 접속해주세요!Security Token : dc416225-dc4a-4eab-bfe2-7a1a12cab148Translate",
     "first_seen": "2025-10-11T06:50:39.443728+00:00",
-    "last_seen": "2025-10-13T04:53:45.971506+00:00"
+    "last_seen": "2025-10-19T20:45:50.158148+00:00"
   },
   "2331": {
     "id": "2331",
     "title": "CLTE",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2331",
     "category": "web",
-    "difficulty": "6",
+    "difficulty": "7",
     "has_download": false,
     "description": "문제 설명CLTETranslate",
     "first_seen": "2025-10-11T06:50:42.604121+00:00",
-    "last_seen": "2025-10-13T04:53:45.971518+00:00"
+    "last_seen": "2025-10-19T20:45:50.158150+00:00"
   },
   "2329": {
     "id": "2329",
     "title": "Mini Memo",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2329",
     "category": "web",
-    "difficulty": "20",
+    "difficulty": "22",
     "has_download": false,
     "description": "문제 설명해당 문제는 2025 충남 IT Hackathon에 출제된 문제입니다.작고 귀여운 메모 (❁´◡`❁)Translate",
     "first_seen": "2025-10-11T06:50:46.169801+00:00",
-    "last_seen": "2025-10-13T04:53:45.971526+00:00"
+    "last_seen": "2025-10-19T20:45:50.158152+00:00"
   },
   "2327": {
     "id": "2327",
@@ -261,62 +305,62 @@
     "has_download": false,
     "description": "문제 설명OverviewYou are dropped into a lightweight Ethereum dev environment that launches go-ethereum v1.16.4. A companion service on port 8888 exposes/flag; once you satisfy the hidden condition, it will reveal the flag.ServicesJSON-RPC:http://<host>:8545WebSocket:ws://<host>:8546Challenge helper:http://<host>:8888/flagTranslate",
     "first_seen": "2025-10-11T06:50:48.942332+00:00",
-    "last_seen": "2025-10-13T04:53:45.971534+00:00"
+    "last_seen": "2025-10-19T20:45:50.158155+00:00"
   },
   "2326": {
     "id": "2326",
     "title": "Fortune Cookie Generator",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2326",
     "category": "crypto",
-    "difficulty": "67",
+    "difficulty": "70",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #18 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionGet some fortune cookies! But the messages are encrypted...Translate",
     "first_seen": "2025-10-11T06:51:00.321080+00:00",
-    "last_seen": "2025-10-13T04:53:45.971538+00:00"
+    "last_seen": "2025-10-19T20:45:50.158160+00:00"
   },
   "2325": {
     "id": "2325",
     "title": "DreamDocs",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2325",
     "category": "web",
-    "difficulty": "211",
+    "difficulty": "227",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #18 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionIntroducing DreamDocs: a platform for browsing docs!Translate",
     "first_seen": "2025-10-11T06:51:04.125547+00:00",
-    "last_seen": "2025-10-13T04:53:45.971540+00:00"
+    "last_seen": "2025-10-19T20:45:50.158162+00:00"
   },
   "2324": {
     "id": "2324",
     "title": "tiny-ouroboroi",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2324",
     "category": "reversing",
-    "difficulty": "84",
+    "difficulty": "88",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #18 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionTiny snakes biting their tailsTranslate",
     "first_seen": "2025-10-11T06:51:08.017146+00:00",
-    "last_seen": "2025-10-13T04:53:45.971542+00:00"
+    "last_seen": "2025-10-19T20:45:50.158164+00:00"
   },
   "2323": {
     "id": "2323",
     "title": "Monster Slayer",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2323",
     "category": "pwnable",
-    "difficulty": "64",
+    "difficulty": "68",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #18 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionUse your power to defeat the monster.Translate",
     "first_seen": "2025-10-11T06:51:11.490314+00:00",
-    "last_seen": "2025-10-13T04:53:45.971544+00:00"
+    "last_seen": "2025-10-19T20:45:50.158166+00:00"
   },
   "2322": {
     "id": "2322",
     "title": "Who gonna survive?",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2322",
     "category": "misc",
-    "difficulty": "13",
+    "difficulty": "16",
     "has_download": false,
     "description": "문제 설명이 문제가 요즘 쇼츠에 계속 뜨더라구요..Translate",
     "first_seen": "2025-10-11T06:50:56.184030+00:00",
-    "last_seen": "2025-10-13T04:53:45.971536+00:00"
+    "last_seen": "2025-10-19T20:45:50.158157+00:00"
   },
   "2321": {
     "id": "2321",
@@ -327,18 +371,18 @@
     "has_download": false,
     "description": "문제 설명멀웨어를 분석한 후 flag를 제출하세요.format: DH{[a-f0-9]{32}}분석 환경에 따라 악성코드로 분류될 수 있습니다Translate",
     "first_seen": "2025-10-11T06:51:14.682813+00:00",
-    "last_seen": "2025-10-13T04:53:45.971546+00:00"
+    "last_seen": "2025-10-19T20:45:50.158168+00:00"
   },
   "2317": {
     "id": "2317",
     "title": "HELLO NES",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2317",
     "category": "reversing",
-    "difficulty": "6",
+    "difficulty": "7",
     "has_download": false,
     "description": "문제 설명해당 문제는 POSTECH-KAIST Science War#2025 에 출제된 문제입니다.Blow on the cartridge... it won’t help this time.Translate",
     "first_seen": "2025-10-11T06:51:18.151475+00:00",
-    "last_seen": "2025-10-13T04:53:45.971548+00:00"
+    "last_seen": "2025-10-19T20:45:50.158170+00:00"
   },
   "2316": {
     "id": "2316",
@@ -349,18 +393,18 @@
     "has_download": false,
     "description": "문제 설명해당 문제는 POSTECH-KAIST Science War#2025 에 출제된 문제입니다.TuriGo에 오신 것을 환영합니다.TuriGo는 Go언어로 작성된 튜링머신 기반 가상머신입니다.현재 Turigo바이너리와 Turigo의 output 텍스트 파일을 확보한 상황입니다.이 output 텍스트 파일을 얻기 위한 input값을 구해주세요Translate",
     "first_seen": "2025-10-11T06:51:21.522991+00:00",
-    "last_seen": "2025-10-13T04:53:45.971550+00:00"
+    "last_seen": "2025-10-19T20:45:50.158173+00:00"
   },
   "2312": {
     "id": "2312",
     "title": "딸깍",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2312",
     "category": "crypto",
-    "difficulty": "66",
+    "difficulty": "68",
     "has_download": false,
     "description": "문제 설명코드 한 줄 딸깍 ---> ctf 문제플래그 형식은 DH{} 입니다.Translate",
     "first_seen": "2025-10-11T06:51:25.161031+00:00",
-    "last_seen": "2025-10-13T04:53:45.971552+00:00"
+    "last_seen": "2025-10-19T20:45:50.158175+00:00"
   },
   "2311": {
     "id": "2311",
@@ -371,7 +415,7 @@
     "has_download": false,
     "description": "문제 설명🐢Translate",
     "first_seen": "2025-10-11T06:51:28.185317+00:00",
-    "last_seen": "2025-10-13T04:53:45.971554+00:00"
+    "last_seen": "2025-10-19T20:45:50.158177+00:00"
   },
   "2310": {
     "id": "2310",
@@ -382,29 +426,29 @@
     "has_download": false,
     "description": "문제 설명Find the flag in protected dotnet binary.format: DH{[a-f0-9]{32}}Translate",
     "first_seen": "2025-10-11T06:51:31.897432+00:00",
-    "last_seen": "2025-10-13T04:53:45.971556+00:00"
+    "last_seen": "2025-10-19T20:45:50.158179+00:00"
   },
   "2308": {
     "id": "2308",
     "title": "Haruhi Revenge",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2308",
     "category": "misc",
-    "difficulty": "8",
+    "difficulty": "10",
     "has_download": false,
     "description": "문제 설명플래그를 숨긴건 알겠는데.. 함수는 왜 숨긴거죠?Referencehttps://dreamhack.io/wargame/challenges/2036https://oeis.org/A180632/a180632.pdfTranslate",
     "first_seen": "2025-10-11T06:51:35.484372+00:00",
-    "last_seen": "2025-10-13T04:53:45.971558+00:00"
+    "last_seen": "2025-10-19T20:45:50.158181+00:00"
   },
   "2307": {
     "id": "2307",
     "title": "Labyrinth",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2307",
     "category": "reversing",
-    "difficulty": "43",
+    "difficulty": "44",
     "has_download": false,
     "description": "문제 설명올바른 입력값을 찾아 입력해 flag를 얻으세요.flag의 형식은DH{...}입니다.Translate",
     "first_seen": "2025-10-11T06:51:39.158689+00:00",
-    "last_seen": "2025-10-13T04:53:45.971559+00:00"
+    "last_seen": "2025-10-19T20:45:53.633597+00:00"
   },
   "2306": {
     "id": "2306",
@@ -415,7 +459,7 @@
     "has_download": false,
     "description": "문제 설명비밀 게시판입니다. 🔒Flag Format: DH{[0-9A-F]{10}}Translate",
     "first_seen": "2025-10-11T06:51:42.657011+00:00",
-    "last_seen": "2025-10-13T04:53:45.971561+00:00"
+    "last_seen": "2025-10-19T20:45:53.633612+00:00"
   },
   "2305": {
     "id": "2305",
@@ -426,18 +470,18 @@
     "has_download": false,
     "description": "문제 설명IntroductionTrivia: The word 'Reversseum' fuses 'Reverse engineering' and 'Colosseum', symbolizing an arena where two reversing nerds dare to fight.DescriptionCan you find a needle in a haystack?Nothing special inserver.qcow2Please note that QEMU may take some time to boot.Translate",
     "first_seen": "2025-10-11T06:51:47.421257+00:00",
-    "last_seen": "2025-10-13T04:53:45.971563+00:00"
+    "last_seen": "2025-10-19T20:45:53.633621+00:00"
   },
   "2304": {
     "id": "2304",
     "title": "iwanttoeatcookie",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2304",
     "category": "web",
-    "difficulty": "157",
+    "difficulty": "166",
     "has_download": false,
     "description": "문제 설명고된 하루를 보낸 sipercat은 쿠키가 먹고 싶어졌다.Translate",
     "first_seen": "2025-10-11T06:51:51.624131+00:00",
-    "last_seen": "2025-10-13T04:53:45.971565+00:00"
+    "last_seen": "2025-10-19T20:45:53.633630+00:00"
   },
   "2303": {
     "id": "2303",
@@ -448,18 +492,18 @@
     "has_download": false,
     "description": "문제 설명XSS 취약점을 이용해 플래그를 획득하세요Translate",
     "first_seen": "2025-10-11T06:51:55.048166+00:00",
-    "last_seen": "2025-10-13T04:53:49.507621+00:00"
+    "last_seen": "2025-10-19T20:45:53.633633+00:00"
   },
   "2302": {
     "id": "2302",
     "title": "Astronaut",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2302",
     "category": "web",
-    "difficulty": "4",
+    "difficulty": "5",
     "has_download": false,
     "description": "문제 설명Astronaut 🧑allow_outgoing=falseTranslate",
     "first_seen": "2025-10-11T06:51:58.185526+00:00",
-    "last_seen": "2025-10-13T04:53:49.507635+00:00"
+    "last_seen": "2025-10-19T20:45:53.633635+00:00"
   },
   "2301": {
     "id": "2301",
@@ -470,7 +514,7 @@
     "has_download": false,
     "description": "문제 설명DescriptionIf you know try this!Translate",
     "first_seen": "2025-10-11T06:52:01.491601+00:00",
-    "last_seen": "2025-10-13T04:53:49.507643+00:00"
+    "last_seen": "2025-10-19T20:45:53.633637+00:00"
   },
   "2300": {
     "id": "2300",
@@ -481,7 +525,7 @@
     "has_download": false,
     "description": "문제 설명IntroductionTrivia: The word 'Reversseum' fuses 'Reverse engineering' and 'Colosseum,' symbolizing an arena where two reversing nerds dare to fight.DescriptionThere is a legendary vulnerability loved by every reverse-engineers.FYIIt works on Windows 11 24H2 26100.6584.Translate",
     "first_seen": "2025-10-11T06:52:04.864076+00:00",
-    "last_seen": "2025-10-13T04:53:49.507651+00:00"
+    "last_seen": "2025-10-19T20:45:53.633639+00:00"
   },
   "2299": {
     "id": "2299",
@@ -492,7 +536,7 @@
     "has_download": false,
     "description": "문제 설명t-string은 뭐죠?? 🫠Translate",
     "first_seen": "2025-10-11T06:52:12.135305+00:00",
-    "last_seen": "2025-10-13T04:53:49.507654+00:00"
+    "last_seen": "2025-10-19T20:45:53.633642+00:00"
   },
   "2297": {
     "id": "2297",
@@ -503,18 +547,18 @@
     "has_download": false,
     "description": "문제 설명😭 THIS CHALLENGE IS TRASHInstead, I recommend solvingthis challenge.IntroductionTrivia: The word 'Reversseum' fuses 'Reverse engineering' and 'Colosseum', symbolizing an arena where two reversing nerds dare to fight.DescriptionCan you find a needle in a haystack?Nothing special inserver.qcow2Please note that QEMU may take some time to boot.Translate",
     "first_seen": "2025-10-11T06:52:15.677734+00:00",
-    "last_seen": "2025-10-13T04:53:49.507656+00:00"
+    "last_seen": "2025-10-19T20:45:53.633644+00:00"
   },
   "2294": {
     "id": "2294",
     "title": "AnywhereDoor",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2294",
     "category": "web",
-    "difficulty": "19",
+    "difficulty": "20",
     "has_download": false,
     "description": "문제 설명Doraemon'sAnywhereDooris not working...Can you Help?Translate",
     "first_seen": "2025-10-11T06:52:19.397355+00:00",
-    "last_seen": "2025-10-13T04:53:49.507658+00:00"
+    "last_seen": "2025-10-19T20:45:53.633646+00:00"
   },
   "2293": {
     "id": "2293",
@@ -525,29 +569,29 @@
     "has_download": false,
     "description": "문제 설명Remove the masks!Translate",
     "first_seen": "2025-10-11T06:52:22.184539+00:00",
-    "last_seen": "2025-10-13T04:53:49.507660+00:00"
+    "last_seen": "2025-10-19T20:45:53.633648+00:00"
   },
   "2292": {
     "id": "2292",
     "title": "EZ-Math",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2292",
-    "category": "",
-    "difficulty": "5",
+    "category": "crypto",
+    "difficulty": "14",
     "has_download": false,
     "description": "문제 설명수학이요? 덧셈 뺄셈만 할 줄 알아도 사는데 지장 없지 않나요?Translate",
     "first_seen": "2025-10-11T06:52:25.326540+00:00",
-    "last_seen": "2025-10-13T06:15:42.046986+00:00"
+    "last_seen": "2025-10-19T20:45:53.633650+00:00"
   },
   "2291": {
     "id": "2291",
     "title": "XSS Filtering Bypass Reborn",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2291",
     "category": "web",
-    "difficulty": "16",
+    "difficulty": "17",
     "has_download": false,
     "description": "문제 설명Reborn, anXSS Filtering Bypass challengeinto a stronger one!Translate",
     "first_seen": "2025-10-11T06:52:28.809795+00:00",
-    "last_seen": "2025-10-13T04:53:49.507664+00:00"
+    "last_seen": "2025-10-19T20:45:53.633652+00:00"
   },
   "2290": {
     "id": "2290",
@@ -558,7 +602,7 @@
     "has_download": false,
     "description": "문제 설명TungTungTungTung Tung TungTungTungTung TungTungTungTungTungTung TungTung TungTungTungTungTung TungTung TungTungTungTungTungTungTung, TungTungTungTungTungTung TungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTung TungTung TungTungTungTung TungTung TungTungTungTungTungTungTungTung TungTungTung TungTung TungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTung TungTung TungTungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTungTungTung TungTungTung TungTungTungTungTungTung TungTungTungTungTungTungTung TungTungTungTungTungTung TungTungTungTungTungTung TungTung TungTungTung TungTungTungTungTung TungTungTungTungTungTungTungTungTungTung TungTungTungTung TungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTungTungTungTungTung TungTungTungTung TungTungTung TungTung TungTungTungTungTungTung, TungTungTungTungTung TungTung TungTungTungTungTung Tung TungTungTungTungTungTung TungTungTungTung TungTungTungTung TungTungTungTung TungTungTungTungTungTungTungTung TungTungTungTung TungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTung TungTungTungTung TungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTung, TungTungTungTungTung TungTungTungTung TungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTung Tung TungTungTungTungTung TungTungTungTung TungTungTungTungTungTung TungTung TungTungTungTungTungTungTungTung' TungTungTungTungTung TungTungTungTungTungTungTungTung, TungTungTung TungTung TungTungTung TungTungTungTung TungTung TungTung TungTungTung TungTungTungTungTung TungTung TungTungTungTungTung, TungTungTungTungTungTung TungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungTungTungTung TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTung, TungTungTung TungTung TungTungTungTungTungTungTungTungTung TungTungTungTungTung TungTung TungTungTungTungTungTung, TungTungTung TungTung TungTungSahurReferenceTung Tung Tung Tung Tung Tung Tung Tung Tung SahurTranslate",
     "first_seen": "2025-10-11T06:52:32.426808+00:00",
-    "last_seen": "2025-10-13T04:53:49.507666+00:00"
+    "last_seen": "2025-10-19T20:45:53.633654+00:00"
   },
   "2287": {
     "id": "2287",
@@ -569,40 +613,40 @@
     "has_download": false,
     "description": "문제 설명해당 문제는 제23회 청소년 정보보호 페스티벌 예선에 출제된 문제입니다.\n플래그 형식은 YISF{...}이며, 중괄호 안에는0부터9, a부터 f까지의 문자만 사용됩니다.\n예시: YISF{0123456789abcdef...}Translate",
     "first_seen": "2025-10-11T06:52:36.203853+00:00",
-    "last_seen": "2025-10-13T04:53:49.507668+00:00"
+    "last_seen": "2025-10-19T20:45:53.633656+00:00"
   },
   "2285": {
     "id": "2285",
     "title": "Amo in the Middle",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2285",
     "category": "crypto",
-    "difficulty": "58",
+    "difficulty": "61",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #17 (🚩Div1)\n      에 출제된 문제입니다.문제 설명Description이번에는 Alice와 Bob의 통신을 중간자 아모가 엿보고 있습니다. 둘의 키교환 과정을 공격해 플래그를 획득해주세요!플래그 형식은 DH{...} 입니다.Translate",
     "first_seen": "2025-10-11T06:52:50.324133+00:00",
-    "last_seen": "2025-10-13T04:53:49.507680+00:00"
+    "last_seen": "2025-10-19T20:45:53.633665+00:00"
   },
   "2284": {
     "id": "2284",
     "title": "SentenceNet",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2284",
     "category": "web",
-    "difficulty": "21",
+    "difficulty": "22",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #17 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionSimple board challenge. How far can you go?Translate",
     "first_seen": "2025-10-11T06:52:53.505237+00:00",
-    "last_seen": "2025-10-13T04:53:49.507682+00:00"
+    "last_seen": "2025-10-19T20:45:57.114733+00:00"
   },
   "2283": {
     "id": "2283",
     "title": "WasMazed",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2283",
     "category": "reversing",
-    "difficulty": "37",
+    "difficulty": "40",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #17 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionItwas mazed...Translate",
     "first_seen": "2025-10-11T06:52:57.065472+00:00",
-    "last_seen": "2025-10-13T04:53:49.507683+00:00"
+    "last_seen": "2025-10-19T20:45:57.114746+00:00"
   },
   "2282": {
     "id": "2282",
@@ -613,29 +657,29 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #17 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionGive me your strings!Translate",
     "first_seen": "2025-10-11T06:53:00.374827+00:00",
-    "last_seen": "2025-10-13T04:53:49.507685+00:00"
+    "last_seen": "2025-10-19T20:45:57.114754+00:00"
   },
   "2281": {
     "id": "2281",
     "title": "EZ-Beacon",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2281",
     "category": "crypto",
-    "difficulty": "9",
+    "difficulty": "10",
     "has_download": false,
     "description": "문제 설명아... 예비군 끝나고 비콘 안 찍고 나왔다... (실화 기반)Translate",
     "first_seen": "2025-10-11T06:52:39.785810+00:00",
-    "last_seen": "2025-10-13T04:53:49.507671+00:00"
+    "last_seen": "2025-10-19T20:45:53.633659+00:00"
   },
   "2279": {
     "id": "2279",
     "title": "이상한 랜섬웨어",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2279",
     "category": "crypto",
-    "difficulty": "20",
+    "difficulty": "22",
     "has_download": false,
     "description": "문제 설명조별 과제에서 저는 발표 자료를 만들기로 했어요!하지만 다 만들고 나서 발표를 맡은 친구에게 전달해 주려고 했지만어떤 랜섬웨어에 걸려 발표 자료가 암호화되었어요. 발표 자료의 내용 중에선첫 글자가 C로 시작한다는 것밖에 기억이 나지 않네요. 어떡하죠?플래그의 형식은DH{...}입니다.0x??????은 16진수입니다.ex.DH{dkqorhvk_0x1234ef}Translate",
     "first_seen": "2025-10-11T06:52:43.183727+00:00",
-    "last_seen": "2025-10-13T04:53:49.507676+00:00"
+    "last_seen": "2025-10-19T20:45:53.633661+00:00"
   },
   "2278": {
     "id": "2278",
@@ -646,84 +690,84 @@
     "has_download": false,
     "description": "문제 설명Reverse a legacy algorithm still seen in malware.Translate",
     "first_seen": "2025-10-11T06:52:46.964651+00:00",
-    "last_seen": "2025-10-13T04:53:49.507678+00:00"
+    "last_seen": "2025-10-19T20:45:53.633663+00:00"
   },
   "2277": {
     "id": "2277",
     "title": "HACKcrypt",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2277",
     "category": "misc",
-    "difficulty": "5",
+    "difficulty": "6",
     "has_download": false,
     "description": "문제 설명HACK HACK,,, it's too hot outside.Translate",
     "first_seen": "2025-10-11T06:53:04.059204+00:00",
-    "last_seen": "2025-10-13T04:53:49.507687+00:00"
+    "last_seen": "2025-10-19T20:45:57.114762+00:00"
   },
   "2276": {
     "id": "2276",
     "title": "Nonogram",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2276",
     "category": "misc",
-    "difficulty": "20",
+    "difficulty": "21",
     "has_download": false,
     "description": "문제 설명노노그램 퍼즐에 대해서 아시나요?이 격자는 매우 끔찍합니다.Translate",
     "first_seen": "2025-10-11T06:53:08.278429+00:00",
-    "last_seen": "2025-10-13T04:53:53.404241+00:00"
+    "last_seen": "2025-10-19T20:45:57.114765+00:00"
   },
   "2275": {
     "id": "2275",
     "title": "Boxes",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2275",
     "category": "misc",
-    "difficulty": "16",
+    "difficulty": "18",
     "has_download": false,
     "description": "문제 설명매우 낮은 확률Translate",
     "first_seen": "2025-10-11T06:53:11.850855+00:00",
-    "last_seen": "2025-10-13T04:53:53.404251+00:00"
+    "last_seen": "2025-10-19T20:45:57.114767+00:00"
   },
   "2274": {
     "id": "2274",
     "title": "catstagram",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2274",
     "category": "web",
-    "difficulty": "10",
+    "difficulty": "12",
     "has_download": false,
     "description": "문제 설명Do you like cats? Try us!Translate",
     "first_seen": "2025-10-11T06:53:15.536277+00:00",
-    "last_seen": "2025-10-13T04:53:53.404258+00:00"
+    "last_seen": "2025-10-19T20:45:57.114769+00:00"
   },
   "2269": {
     "id": "2269",
     "title": "어 형이야",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2269",
     "category": "misc",
-    "difficulty": "55",
+    "difficulty": "67",
     "has_download": false,
     "description": "문제 설명어, 형이야~형은 올해로 45살이야~~플래그는 DH{...} 형태를 포함 한 채로 발견하실 수 있습니다.Translate",
     "first_seen": "2025-10-11T06:53:19.803008+00:00",
-    "last_seen": "2025-10-13T04:53:53.404264+00:00"
+    "last_seen": "2025-10-19T20:45:57.114772+00:00"
   },
   "2268": {
     "id": "2268",
     "title": "TOP secret!",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2268",
     "category": "crypto",
-    "difficulty": "177",
+    "difficulty": "183",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #16 (🌱Div2)\n      에 출제된 문제입니다.문제 설명Description (ko)아모와 보코는 난도 몰래 비밀 메시지을 주고받고 있어요.내용이 플래그라는 것은 난도에겐 절대, 절대 비밀이에요!Description (en)Amo and Boko are secretly exchanging messages without Nando.Nando must never know it's a flag — it'sTOPsecret!Translate",
     "first_seen": "2025-10-11T06:53:27.087261+00:00",
-    "last_seen": "2025-10-13T04:53:53.404266+00:00"
+    "last_seen": "2025-10-19T20:45:57.114774+00:00"
   },
   "2267": {
     "id": "2267",
     "title": "Bookwish",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2267",
     "category": "web",
-    "difficulty": "138",
+    "difficulty": "145",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #16 (🌱Div2)\n      에 출제된 문제입니다.문제 설명Description원하는 책을 신청할 수 있는 서비스입니다.서비스의 취약점을 찾고 익스플로잇하여 플래그를 획득하세요.플래그 형식은DH{...}입니다.Translate",
     "first_seen": "2025-10-11T06:53:30.474991+00:00",
-    "last_seen": "2025-10-13T04:53:53.404268+00:00"
+    "last_seen": "2025-10-19T20:45:57.114776+00:00"
   },
   "2266": {
     "id": "2266",
@@ -734,7 +778,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #16 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionAnother 2D representation method, instead of traditional methods called images.Translate",
     "first_seen": "2025-10-11T06:53:34.066290+00:00",
-    "last_seen": "2025-10-13T04:53:53.404270+00:00"
+    "last_seen": "2025-10-19T20:45:57.114779+00:00"
   },
   "2265": {
     "id": "2265",
@@ -745,7 +789,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #16 (🌱Div2)\n      에 출제된 문제입니다.문제 설명DescriptionSimple Base64 EncoderTranslate",
     "first_seen": "2025-10-11T06:53:37.823740+00:00",
-    "last_seen": "2025-10-13T04:53:53.404272+00:00"
+    "last_seen": "2025-10-19T20:45:57.114780+00:00"
   },
   "2264": {
     "id": "2264",
@@ -756,7 +800,7 @@
     "has_download": false,
     "description": "문제 설명They sayTetois just an innocent girl... but the truth is far darker. Behind that gentle smile hides theDemon King, ruler of a realm no slayer dares to enter.The moment you strike, the biwa sounds, and you are cast into herInfinity Castle, a boundless fortress of shifting code and endless traps.Can you navigate the infinite halls and defeat the Demon King?Credit: Thanks toXvezdafor letting me use theawesome frontendallow_outgoing = falseTranslate",
     "first_seen": "2025-10-11T06:53:40.704927+00:00",
-    "last_seen": "2025-10-13T04:53:53.404273+00:00"
+    "last_seen": "2025-10-19T20:45:57.114783+00:00"
   },
   "2263": {
     "id": "2263",
@@ -767,29 +811,29 @@
     "has_download": false,
     "description": "문제 설명계절은 풍경을 바꾸는 법이죠Translate",
     "first_seen": "2025-10-11T06:53:44.104516+00:00",
-    "last_seen": "2025-10-13T04:53:53.404275+00:00"
+    "last_seen": "2025-10-19T20:45:57.114785+00:00"
   },
   "2262": {
     "id": "2262",
     "title": "Tartar sauce",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2262",
     "category": "web",
-    "difficulty": "81",
+    "difficulty": "83",
     "has_download": false,
     "description": "문제 설명DescriptionTartar sauce is a condiment made of mayonnaise, chopped gherkins or relish, capers, and herbs such as tarragon and dill.Translate",
     "first_seen": "2025-10-11T06:53:48.296543+00:00",
-    "last_seen": "2025-10-13T04:53:53.404277+00:00"
+    "last_seen": "2025-10-19T20:45:57.114787+00:00"
   },
   "2261": {
     "id": "2261",
     "title": "Oiia",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2261",
     "category": "misc",
-    "difficulty": "32",
+    "difficulty": "34",
     "has_download": false,
     "description": "문제 설명Translate",
     "first_seen": "2025-10-11T06:53:52.379933+00:00",
-    "last_seen": "2025-10-13T04:53:53.404278+00:00"
+    "last_seen": "2025-10-19T20:45:57.114789+00:00"
   },
   "2260": {
     "id": "2260",
@@ -800,18 +844,18 @@
     "has_download": false,
     "description": "문제 설명Every professional ghost hunter puts everything in his sleeves.Translate",
     "first_seen": "2025-10-11T06:53:55.155494+00:00",
-    "last_seen": "2025-10-13T04:53:53.404280+00:00"
+    "last_seen": "2025-10-19T20:45:57.114791+00:00"
   },
   "2259": {
     "id": "2259",
     "title": "Disgusting Ads",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2259",
     "category": "web",
-    "difficulty": "119",
+    "difficulty": "129",
     "has_download": false,
     "description": "문제 설명지난 주말, 사촌 동생이 제 집에 찾아와서는 컴퓨터를 써도 되냐고 물어보더군요..마음대로 하라고 했죠.그리고 오늘 컴퓨터를 켜 보니.. 이게 무슨 일이죠?Translate",
     "first_seen": "2025-10-11T06:53:58.722757+00:00",
-    "last_seen": "2025-10-13T04:53:53.404282+00:00"
+    "last_seen": "2025-10-19T20:45:57.114793+00:00"
   },
   "2257": {
     "id": "2257",
@@ -822,7 +866,7 @@
     "has_download": false,
     "description": "문제 설명당신의 운을 테스트 해 보세요!Translate",
     "first_seen": "2025-10-11T06:54:02.533701+00:00",
-    "last_seen": "2025-10-13T04:53:53.404283+00:00"
+    "last_seen": "2025-10-19T20:45:57.114795+00:00"
   },
   "2253": {
     "id": "2253",
@@ -833,7 +877,7 @@
     "has_download": false,
     "description": "문제 설명이발을 조심해2025.09.05 문제 오류 수정Translate",
     "first_seen": "2025-10-11T06:54:06.897294+00:00",
-    "last_seen": "2025-10-13T04:53:53.404284+00:00"
+    "last_seen": "2025-10-19T20:45:57.114797+00:00"
   },
   "2252": {
     "id": "2252",
@@ -844,18 +888,18 @@
     "has_download": false,
     "description": "문제 설명DiscriptionOur site has no vulnerabilities! 😗Our site doesn't need Guessing! 😎25.08.24 Patched (add special character, Blacklist.txt)Translate",
     "first_seen": "2025-10-11T06:54:09.976074+00:00",
-    "last_seen": "2025-10-13T04:53:53.404286+00:00"
+    "last_seen": "2025-10-19T20:46:00.776138+00:00"
   },
   "2251": {
     "id": "2251",
     "title": "이발",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2251",
     "category": "web",
-    "difficulty": "173",
+    "difficulty": "178",
     "has_download": false,
     "description": "문제 설명zrootTranslate",
     "first_seen": "2025-10-11T06:54:13.496334+00:00",
-    "last_seen": "2025-10-13T04:53:53.404288+00:00"
+    "last_seen": "2025-10-19T20:46:00.776152+00:00"
   },
   "2250": {
     "id": "2250",
@@ -866,7 +910,7 @@
     "has_download": false,
     "description": "문제 설명Secret stub changes fake_flag to real_flag, but you know I hate debuggers.Translate",
     "first_seen": "2025-10-11T06:54:16.961009+00:00",
-    "last_seen": "2025-10-13T04:53:53.404289+00:00"
+    "last_seen": "2025-10-19T20:46:00.776161+00:00"
   },
   "2248": {
     "id": "2248",
@@ -877,62 +921,62 @@
     "has_download": false,
     "description": "문제 설명난수들이 뭉탱이로 있다가 유링게슝Translate",
     "first_seen": "2025-10-11T06:54:20.433953+00:00",
-    "last_seen": "2025-10-13T04:53:53.404291+00:00"
+    "last_seen": "2025-10-19T20:46:00.776169+00:00"
   },
   "2247": {
     "id": "2247",
     "title": "EZ-CRT",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2247",
     "category": "crypto",
-    "difficulty": "22",
+    "difficulty": "23",
     "has_download": false,
     "description": "문제 설명뭔가 에러가 났는데..Translate",
     "first_seen": "2025-10-11T06:54:24.153789+00:00",
-    "last_seen": "2025-10-13T04:53:57.710415+00:00"
+    "last_seen": "2025-10-19T20:46:00.776171+00:00"
   },
   "2246": {
     "id": "2246",
     "title": "김보안 씨의 점심",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2246",
     "category": "web",
-    "difficulty": "21",
+    "difficulty": "22",
     "has_download": false,
     "description": "문제 설명보안팀의 김보안 씨는 해킹 사고의 책임을 지고 권고 사직을 당했습니다.공원 벤치에 앉아 멍하니 있었는데 한 아이가 다가와 물었습니다.\"아저씨, 오늘 점심 뭐 드셨어요?\"\"응.. 돈이 없어서 샌드위치 먹었단다.\"Translate",
     "first_seen": "2025-10-11T06:54:27.868233+00:00",
-    "last_seen": "2025-10-13T04:53:57.710428+00:00"
+    "last_seen": "2025-10-19T20:46:00.776174+00:00"
   },
   "2245": {
     "id": "2245",
     "title": "Same ZIP???",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2245",
     "category": "misc",
-    "difficulty": "9",
+    "difficulty": "10",
     "has_download": false,
     "description": "문제 설명These ZIP files are suuuper similar!The contents and CRC are the same.But it looks like the binary values are different!Translate",
     "first_seen": "2025-10-11T06:54:31.399354+00:00",
-    "last_seen": "2025-10-13T04:53:57.710437+00:00"
+    "last_seen": "2025-10-19T20:46:00.776176+00:00"
   },
   "2243": {
     "id": "2243",
     "title": "Stupid AI",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2243",
     "category": "web",
-    "difficulty": "80",
+    "difficulty": "83",
     "has_download": false,
     "description": "문제 설명이 멍청한 AI를 어떡하죠? 이 친구는 학습을 아예 시키지 않았습니다.날 것의 채팅봇이 얼마나 끔찍한지 경험해 보세요!AI는 기본 영어로 대화합니다.vm생성 후 구축까지 시간이 꽤 오래 걸릴 수 있습니다.너무 지나친 스팸은 vm이 터질 수 있습니다!Translate",
     "first_seen": "2025-10-11T06:54:34.986248+00:00",
-    "last_seen": "2025-10-13T04:53:57.710444+00:00"
+    "last_seen": "2025-10-19T20:46:00.776178+00:00"
   },
   "2241": {
     "id": "2241",
     "title": "yisf_note",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2241",
     "category": "pwnable",
-    "difficulty": "17",
+    "difficulty": "18",
     "has_download": false,
     "description": "문제 설명커맨드를 보내 노트를 사용하세요!해당 문제는 제23회 청소년 정보보호 페스티벌 예선에 출제된 문제입니다.\n플래그 형식은 YISF{…}입니다.Translate",
     "first_seen": "2025-10-11T06:54:42.658615+00:00",
-    "last_seen": "2025-10-13T04:53:57.710447+00:00"
+    "last_seen": "2025-10-19T20:46:00.776180+00:00"
   },
   "2239": {
     "id": "2239",
@@ -943,7 +987,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명just onnx fileTranslate",
     "first_seen": "2025-10-11T06:54:52.463738+00:00",
-    "last_seen": "2025-10-13T04:53:57.710453+00:00"
+    "last_seen": "2025-10-19T20:46:00.776188+00:00"
   },
   "2238": {
     "id": "2238",
@@ -954,7 +998,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Dig into secret communications.Translate",
     "first_seen": "2025-10-11T06:54:55.671414+00:00",
-    "last_seen": "2025-10-13T04:53:57.710455+00:00"
+    "last_seen": "2025-10-19T20:46:00.776190+00:00"
   },
   "2237": {
     "id": "2237",
@@ -965,18 +1009,18 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명플래그를 찾아주세요Translate",
     "first_seen": "2025-10-11T06:54:59.366435+00:00",
-    "last_seen": "2025-10-13T04:53:57.710458+00:00"
+    "last_seen": "2025-10-19T20:46:00.776192+00:00"
   },
   "2236": {
     "id": "2236",
     "title": "crchash",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2236",
     "category": "crypto",
-    "difficulty": "42",
+    "difficulty": "44",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명CRC stands for Cyclic Redundancy Check, a method for detecting errors in data transmission or storage.Translate",
     "first_seen": "2025-10-11T06:55:03.450012+00:00",
-    "last_seen": "2025-10-13T04:53:57.710460+00:00"
+    "last_seen": "2025-10-19T20:46:00.776194+00:00"
   },
   "2235": {
     "id": "2235",
@@ -987,7 +1031,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명You must boot from Test mode.Also, obf.exe must run in administrator mode.Translate",
     "first_seen": "2025-10-11T06:55:06.138811+00:00",
-    "last_seen": "2025-10-13T04:53:57.710462+00:00"
+    "last_seen": "2025-10-19T20:46:00.776196+00:00"
   },
   "2234": {
     "id": "2234",
@@ -998,7 +1042,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Translate",
     "first_seen": "2025-10-11T06:55:09.233663+00:00",
-    "last_seen": "2025-10-13T04:53:57.710463+00:00"
+    "last_seen": "2025-10-19T20:46:00.776198+00:00"
   },
   "2233": {
     "id": "2233",
@@ -1009,7 +1053,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Translate",
     "first_seen": "2025-10-11T06:55:12.025777+00:00",
-    "last_seen": "2025-10-13T04:53:57.710466+00:00"
+    "last_seen": "2025-10-19T20:46:00.776200+00:00"
   },
   "2232": {
     "id": "2232",
@@ -1020,7 +1064,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Translate",
     "first_seen": "2025-10-11T06:55:15.549311+00:00",
-    "last_seen": "2025-10-13T04:53:57.710468+00:00"
+    "last_seen": "2025-10-19T20:46:00.776202+00:00"
   },
   "2231": {
     "id": "2231",
@@ -1031,7 +1075,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명PrototypeTranslate",
     "first_seen": "2025-10-11T06:55:18.581657+00:00",
-    "last_seen": "2025-10-13T04:53:57.710469+00:00"
+    "last_seen": "2025-10-19T20:46:00.776204+00:00"
   },
   "2230": {
     "id": "2230",
@@ -1042,18 +1086,18 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명단순한 것이 오히려 더 어려운 법입니다. 심플심플한 Windows와의 싸움에서 승리하세요!flag : acsc{input1_input2_input3}예시input1 : heeinput2 : abcinput3 : windowsflag : acsc{hee_abc_windows}Translate",
     "first_seen": "2025-10-11T06:55:22.236362+00:00",
-    "last_seen": "2025-10-13T04:53:57.710472+00:00"
+    "last_seen": "2025-10-19T20:46:04.461038+00:00"
   },
   "2229": {
     "id": "2229",
     "title": "smart_device",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2229",
     "category": "misc",
-    "difficulty": "200",
+    "difficulty": "202",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Get API Key from smart device :DTranslate",
     "first_seen": "2025-10-11T06:55:25.700441+00:00",
-    "last_seen": "2025-10-13T04:53:57.710473+00:00"
+    "last_seen": "2025-10-19T20:46:04.461056+00:00"
   },
   "2228": {
     "id": "2228",
@@ -1064,7 +1108,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Get key from stripped cortex M boardTranslate",
     "first_seen": "2025-10-11T06:55:29.328678+00:00",
-    "last_seen": "2025-10-13T04:53:57.710475+00:00"
+    "last_seen": "2025-10-19T20:46:04.461066+00:00"
   },
   "2227": {
     "id": "2227",
@@ -1075,18 +1119,18 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Enjoy our On-Device AI service checking your flag 👍Translate",
     "first_seen": "2025-10-11T06:55:32.694550+00:00",
-    "last_seen": "2025-10-13T04:53:57.710477+00:00"
+    "last_seen": "2025-10-19T20:46:04.461088+00:00"
   },
   "2226": {
     "id": "2226",
     "title": "Unsafe PRNG",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2226",
     "category": "crypto",
-    "difficulty": "37",
+    "difficulty": "38",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Yeah I use unsafe PRNG, but what can you do if the unknown seed is super big lolTranslate",
     "first_seen": "2025-10-11T06:55:36.047905+00:00",
-    "last_seen": "2025-10-13T04:54:02.967513+00:00"
+    "last_seen": "2025-10-19T20:46:04.461092+00:00"
   },
   "2225": {
     "id": "2225",
@@ -1097,40 +1141,40 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Have you ever heard of Safety Number?Translate",
     "first_seen": "2025-10-11T06:55:39.801762+00:00",
-    "last_seen": "2025-10-13T04:54:02.967527+00:00"
+    "last_seen": "2025-10-19T20:46:04.461095+00:00"
   },
   "2224": {
     "id": "2224",
     "title": "Pretty Good Privacy",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2224",
     "category": "crypto",
-    "difficulty": "98",
+    "difficulty": "100",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명I implemented PGP real quick last weekend. Everything was built from scratch!Problem? My RSA key usesq = nextPrime(p)...Translate",
     "first_seen": "2025-10-11T06:55:43.183711+00:00",
-    "last_seen": "2025-10-13T04:54:02.967536+00:00"
+    "last_seen": "2025-10-19T20:46:04.461098+00:00"
   },
   "2223": {
     "id": "2223",
     "title": "free board",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2223",
     "category": "web",
-    "difficulty": "12",
+    "difficulty": "13",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명It's a simple bulletin board.Translate",
     "first_seen": "2025-10-11T06:55:46.855564+00:00",
-    "last_seen": "2025-10-13T04:54:02.967544+00:00"
+    "last_seen": "2025-10-19T20:46:04.461101+00:00"
   },
   "2222": {
     "id": "2222",
     "title": "Reservation Manager",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2222",
     "category": "pwnable",
-    "difficulty": "30",
+    "difficulty": "31",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명It is a reservation management program.Translate",
     "first_seen": "2025-10-11T06:55:53.992519+00:00",
-    "last_seen": "2025-10-13T04:54:02.967547+00:00"
+    "last_seen": "2025-10-19T20:46:04.461103+00:00"
   },
   "2221": {
     "id": "2221",
@@ -1141,7 +1185,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionHoly Moly!Translate",
     "first_seen": "2025-10-11T06:55:57.213631+00:00",
-    "last_seen": "2025-10-13T04:54:02.967549+00:00"
+    "last_seen": "2025-10-19T20:46:04.461105+00:00"
   },
   "2220": {
     "id": "2220",
@@ -1152,7 +1196,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명This is a simple Markdown test site.Translate",
     "first_seen": "2025-10-11T06:56:00.146432+00:00",
-    "last_seen": "2025-10-13T04:54:02.967551+00:00"
+    "last_seen": "2025-10-19T20:46:04.461107+00:00"
   },
   "2219": {
     "id": "2219",
@@ -1163,7 +1207,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionOffice To Text!Translate",
     "first_seen": "2025-10-11T06:56:04.007764+00:00",
-    "last_seen": "2025-10-13T04:54:02.967553+00:00"
+    "last_seen": "2025-10-19T20:46:04.461110+00:00"
   },
   "2218": {
     "id": "2218",
@@ -1174,7 +1218,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Fundamental operationsTranslate",
     "first_seen": "2025-10-11T06:56:07.156843+00:00",
-    "last_seen": "2025-10-13T04:54:02.967555+00:00"
+    "last_seen": "2025-10-19T20:46:04.461113+00:00"
   },
   "2217": {
     "id": "2217",
@@ -1185,18 +1229,18 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명a screw-loose eBPFTranslate",
     "first_seen": "2025-10-11T06:56:10.209657+00:00",
-    "last_seen": "2025-10-13T04:54:02.967557+00:00"
+    "last_seen": "2025-10-19T20:46:04.461115+00:00"
   },
   "2216": {
     "id": "2216",
     "title": "HKLMystery",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2216",
     "category": "forensics",
-    "difficulty": "35",
+    "difficulty": "37",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionPlease find the SHA-1 hash value of the backdoor malware created by the attacker!!!There are no forensic artifacts related to the initial access and privilege escalation.flag format : acsc{}Translate",
     "first_seen": "2025-10-11T06:56:13.656690+00:00",
-    "last_seen": "2025-10-13T04:54:02.967559+00:00"
+    "last_seen": "2025-10-19T20:46:04.461118+00:00"
   },
   "2215": {
     "id": "2215",
@@ -1207,7 +1251,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionIn May 2025, the company’s internal security systems detected abnormal access attempts originating from external sources. Shortly after, a series of suspicious activities unfolded across several critical assets, including signs of privilege escalation and system behavior anomalies. Some endpoints became unresponsive, exhibiting evidence of remote control and unauthorized modifications. The organization suspected a targeted and coordinated cyberattack, likely conducted by APT-213—a threat actor known for its advanced capabilities and history of persistent intrusions. In response, the company engaged its Digital Forensics and Incident Response (DFIR) team to conduct a full-scale investigation and uncover the scope, origin, and impact of the compromise.FlagFlag 1: What is the timestamp of the first successful access of initial access where the attacker's IP was identified? (UTC+-x{System time format}) Example: 2025/05/05_05:05:05Flag 2: What is the file path of the artifact where the attacker obtained credentials for lateral movement? Example: C:\\Windows\\System32\\calc.exeFlag 3: The attacker performed lateral movement. Find the relevant evidence. How did the attacker maintain control? Example: The string flag3 is explicitly marked.Flag 4: The attacker installed a backdoor to maintain persistence. What is the MD5 hash of the backdoor file? Example: E2B19C8B2BEAF5A69319943A96DAFC05 (uppercase)Flag format : acsc{md5(flag1_flag2_flag3_flag4)}Exampleacsc{md5{2025/05/05_05:05:05_C:\\Windows\\System32\\calc.exe_flag3_E2B19C8B2BEAF5A69319943A96DAFC05}} === acsc{9A8B7DC52CA9E629189916BC9CCA7DED}The final flag is also capitalized.Translate",
     "first_seen": "2025-10-11T06:56:17.021522+00:00",
-    "last_seen": "2025-10-13T04:54:02.967561+00:00"
+    "last_seen": "2025-10-19T20:46:04.461120+00:00"
   },
   "2214": {
     "id": "2214",
@@ -1218,7 +1262,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Flag file has suddenly been encrypted. Please analyze the memory to recover the file.Translate",
     "first_seen": "2025-10-11T06:56:21.860769+00:00",
-    "last_seen": "2025-10-13T04:54:02.967563+00:00"
+    "last_seen": "2025-10-19T20:46:04.461122+00:00"
   },
   "2213": {
     "id": "2213",
@@ -1229,29 +1273,29 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Suddenly, I was contacted by the company that a confidential file had been leaked. The company conducted an internal audit, but no evidence of an insider leak was found.Please analyze the provided file to determine the circumstances of the leak.Flag 1: CVE number used in the attack Example: cve-2025-12345Flag 2: MD5 hash of the malware installed by the attackerFlag 3: Contents of the leaked confidential fileFlag 4: Number of file extension types targeted by the attackerFlag format: acsc{md5(flag1_flag2_flag3_flag4)}All content related to the flag must be written in lowercase.Example)acsc{md5(cve-2025-12345_8988d80518eba5b84749273274c84818_happy_4)}Translate",
     "first_seen": "2025-10-11T06:56:26.529375+00:00",
-    "last_seen": "2025-10-13T04:54:02.967565+00:00"
+    "last_seen": "2025-10-19T20:46:04.461125+00:00"
   },
   "2212": {
     "id": "2212",
     "title": "Gunpo",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2212",
     "category": "web",
-    "difficulty": "31",
+    "difficulty": "34",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명Do you know Gunpo, Gyeonggi-do?Too many 맛집 in Gunpo City...Translate",
     "first_seen": "2025-10-11T06:56:33.672066+00:00",
-    "last_seen": "2025-10-13T04:54:02.967567+00:00"
+    "last_seen": "2025-10-19T20:46:04.461127+00:00"
   },
   "2211": {
     "id": "2211",
     "title": "FreeMarket",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2211",
     "category": "web",
-    "difficulty": "99",
+    "difficulty": "103",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionNo money, No problemTranslate",
     "first_seen": "2025-10-11T06:56:39.205440+00:00",
-    "last_seen": "2025-10-13T04:54:02.967569+00:00"
+    "last_seen": "2025-10-19T20:46:04.461129+00:00"
   },
   "2210": {
     "id": "2210",
@@ -1262,7 +1306,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionThis chatbot can export a special token — but only if you give it the exact secret command.Figure out the correct command, retrieve the token, and decrypt it to reveal the flag.Translate",
     "first_seen": "2025-10-11T06:56:43.477685+00:00",
-    "last_seen": "2025-10-13T04:54:02.967571+00:00"
+    "last_seen": "2025-10-19T20:46:08.064214+00:00"
   },
   "2209": {
     "id": "2209",
@@ -1273,18 +1317,18 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionOnly 1byte !!!!!!!!!!!!Translate",
     "first_seen": "2025-10-11T06:56:49.918660+00:00",
-    "last_seen": "2025-10-13T04:54:02.967573+00:00"
+    "last_seen": "2025-10-19T20:46:08.064228+00:00"
   },
   "2208": {
     "id": "2208",
     "title": "book_manager",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2208",
     "category": "pwnable",
-    "difficulty": "47",
+    "difficulty": "49",
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명DescriptionThis program is a console-based book management system.Try managing your books efficiently!Translate",
     "first_seen": "2025-10-11T06:56:57.063064+00:00",
-    "last_seen": "2025-10-13T04:54:02.967575+00:00"
+    "last_seen": "2025-10-19T20:46:08.064237+00:00"
   },
   "2206": {
     "id": "2206",
@@ -1295,40 +1339,40 @@
     "has_download": false,
     "description": "해당 문제는 \n        ACSC CTF\n      에 출제된 문제입니다.문제 설명welcome to crypto-world!2025.8.25 언인텐 요소를 제거하였습니다.Translate",
     "first_seen": "2025-10-11T06:57:03.592827+00:00",
-    "last_seen": "2025-10-13T04:54:02.967576+00:00"
+    "last_seen": "2025-10-19T20:46:08.064245+00:00"
   },
   "2205": {
     "id": "2205",
     "title": "문제 이름을 입력해주세요",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2205",
     "category": "pwnable",
-    "difficulty": "28",
+    "difficulty": "29",
     "has_download": false,
     "description": "문제 설명문제 설명을 입력해주세요Translate",
     "first_seen": "2025-10-11T06:54:46.153475+00:00",
-    "last_seen": "2025-10-13T04:53:57.710449+00:00"
+    "last_seen": "2025-10-19T20:46:00.776182+00:00"
   },
   "2204": {
     "id": "2204",
     "title": "My Little Boy",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2204",
     "category": "web",
-    "difficulty": "52",
+    "difficulty": "54",
     "has_download": false,
     "description": "문제 설명저를 키워주세요!개발자 몰래 서버에 도움 될 만한 코드를 숨겨뒀습니다!Translate",
     "first_seen": "2025-10-11T06:54:49.623078+00:00",
-    "last_seen": "2025-10-13T04:53:57.710452+00:00"
+    "last_seen": "2025-10-19T20:46:00.776185+00:00"
   },
   "2199": {
     "id": "2199",
     "title": "Copy And Paste",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2199",
     "category": "web",
-    "difficulty": "127",
+    "difficulty": "131",
     "has_download": false,
     "description": "문제 설명그냥 복사 붙혀넣기 하면 됩니다!!!어.. 뭔가 이상한데?플래그 오류 없습니다.Translate",
     "first_seen": "2025-10-11T06:57:12.780209+00:00",
-    "last_seen": "2025-10-13T04:54:06.855782+00:00"
+    "last_seen": "2025-10-19T20:46:08.064248+00:00"
   },
   "2197": {
     "id": "2197",
@@ -1339,18 +1383,18 @@
     "has_download": false,
     "description": "문제 설명A strange binary that confuses tools yet still runs.Translate",
     "first_seen": "2025-10-11T06:57:20.453196+00:00",
-    "last_seen": "2025-10-13T04:54:06.855795+00:00"
+    "last_seen": "2025-10-19T20:46:08.064250+00:00"
   },
   "2196": {
     "id": "2196",
     "title": "Safe CSP",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2196",
     "category": "web",
-    "difficulty": "55",
+    "difficulty": "58",
     "has_download": false,
     "description": "문제 설명Google says this CSP is safe.Translate",
     "first_seen": "2025-10-11T06:57:26.672101+00:00",
-    "last_seen": "2025-10-13T04:54:06.855804+00:00"
+    "last_seen": "2025-10-19T20:46:08.064252+00:00"
   },
   "2195": {
     "id": "2195",
@@ -1361,18 +1405,18 @@
     "has_download": false,
     "description": "문제 설명PyArmor won’t save your code. Obscurity ≠ Security.Translate",
     "first_seen": "2025-10-11T06:57:31.785800+00:00",
-    "last_seen": "2025-10-13T04:54:06.855811+00:00"
+    "last_seen": "2025-10-19T20:46:08.064254+00:00"
   },
   "2194": {
     "id": "2194",
     "title": "거북이",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2194",
     "category": "web",
-    "difficulty": "57",
+    "difficulty": "59",
     "has_download": false,
     "description": "문제 설명집 앞에서 거북이를 주워 어항에 넣어두었는데, 다음 날 보니 사라졌습니다.“어항이 높은데… 대체 어떻게 빠져나간 거지?”Translate",
     "first_seen": "2025-10-11T06:57:46.433113+00:00",
-    "last_seen": "2025-10-13T04:54:06.855814+00:00"
+    "last_seen": "2025-10-19T20:46:08.064257+00:00"
   },
   "2193": {
     "id": "2193",
@@ -1383,51 +1427,51 @@
     "has_download": false,
     "description": "문제 설명진짜로 대충 만든 건 아닙니다 ㅎㅎTranslate",
     "first_seen": "2025-10-11T06:57:51.257978+00:00",
-    "last_seen": "2025-10-13T04:54:06.855816+00:00"
+    "last_seen": "2025-10-19T20:46:08.064259+00:00"
   },
   "2189": {
     "id": "2189",
     "title": "서비스 이용 약관",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2189",
     "category": "misc",
-    "difficulty": "74",
+    "difficulty": "75",
     "has_download": false,
     "description": "문제 설명드림이는 드림핵에 적용할 새 서비스 이용 약관을 작성했어요.그런데 이용 약관이 저장된 파일이 잘못된 방식으로 인코딩되어 드림이가 당황스러워하고 있어요.여러분이 드림이를 도와 이용 약관을 복원해 주세요.Note이 스토리는 픽션입니다! 실제 드림핵의 이용 약관은이 링크에서 확인하실 수 있습니다.Translate",
     "first_seen": "2025-10-11T06:57:55.539136+00:00",
-    "last_seen": "2025-10-13T04:54:06.855819+00:00"
+    "last_seen": "2025-10-19T20:46:08.064261+00:00"
   },
   "2188": {
     "id": "2188",
     "title": "Find Real One",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2188",
     "category": "web",
-    "difficulty": "159",
+    "difficulty": "165",
     "has_download": false,
     "description": "문제 설명Translate",
     "first_seen": "2025-10-11T06:58:02.890651+00:00",
-    "last_seen": "2025-10-13T04:54:06.855821+00:00"
+    "last_seen": "2025-10-19T20:46:08.064263+00:00"
   },
   "2187": {
     "id": "2187",
     "title": "EZ-Idea",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2187",
     "category": "crypto",
-    "difficulty": "11",
+    "difficulty": "12",
     "has_download": false,
     "description": "문제 설명아 키 생성하기 귀찮아Translate",
     "first_seen": "2025-10-11T06:58:08.261278+00:00",
-    "last_seen": "2025-10-13T04:54:06.855823+00:00"
+    "last_seen": "2025-10-19T20:46:08.064265+00:00"
   },
   "2186": {
     "id": "2186",
     "title": "Malware",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2186",
     "category": "pwnable",
-    "difficulty": "16",
+    "difficulty": "17",
     "has_download": false,
     "description": "문제 설명Test your malware! How to hack?NoteThis challenge is for training! Never utilize your malware in real-world attack.Translate",
     "first_seen": "2025-10-11T06:58:14.546368+00:00",
-    "last_seen": "2025-10-13T04:54:06.855825+00:00"
+    "last_seen": "2025-10-19T20:46:08.064267+00:00"
   },
   "2185": {
     "id": "2185",
@@ -1438,18 +1482,18 @@
     "has_download": false,
     "description": "문제 설명실행 가능한 .해당 문제는 제23회 청소년 정보보호 페스티벌 예선에 출제된 문제입니다.플래그 형식은 YISF{…}입니다.드림핵 플랫폼에 맞추어 파일이 다소 수정되었으나 기법은 동일합니다.Translate",
     "first_seen": "2025-10-11T06:58:19.734510+00:00",
-    "last_seen": "2025-10-13T04:54:06.855827+00:00"
+    "last_seen": "2025-10-19T20:46:08.064269+00:00"
   },
   "2182": {
     "id": "2182",
     "title": "",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2182",
     "category": "web",
-    "difficulty": "233",
+    "difficulty": "248",
     "has_download": false,
     "description": "문제 설명Translate",
     "first_seen": "2025-10-11T06:58:27.696127+00:00",
-    "last_seen": "2025-10-13T04:54:06.855829+00:00"
+    "last_seen": "2025-10-19T20:46:08.064271+00:00"
   },
   "2180": {
     "id": "2180",
@@ -1460,7 +1504,7 @@
     "has_download": false,
     "description": "문제 설명Time to learnAngr.Tame the ConstraintsThis time, don’t trust thecomplex_function.If you’re new, conquerAngrStartfirst.Translate",
     "first_seen": "2025-10-11T06:58:33.157830+00:00",
-    "last_seen": "2025-10-13T04:54:06.855831+00:00"
+    "last_seen": "2025-10-19T20:46:08.064273+00:00"
   },
   "2179": {
     "id": "2179",
@@ -1471,29 +1515,29 @@
     "has_download": false,
     "description": "문제 설명파일 탐색을 빠르게 하는 방법은?Translate",
     "first_seen": "2025-10-11T06:58:41.112556+00:00",
-    "last_seen": "2025-10-13T04:54:06.855833+00:00"
+    "last_seen": "2025-10-19T20:46:08.064275+00:00"
   },
   "2178": {
     "id": "2178",
     "title": "EZ-Random",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2178",
     "category": "crypto",
-    "difficulty": "13",
+    "difficulty": "14",
     "has_download": false,
     "description": "문제 설명어.. 브루트포싱 문제인가?Translate",
     "first_seen": "2025-10-11T06:58:48.061966+00:00",
-    "last_seen": "2025-10-13T04:54:06.855835+00:00"
+    "last_seen": "2025-10-19T20:46:08.064277+00:00"
   },
   "2176": {
     "id": "2176",
     "title": "EZ-Des",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2176",
     "category": "crypto",
-    "difficulty": "18",
+    "difficulty": "20",
     "has_download": false,
     "description": "문제 설명DES 근데 이제 뭔가 많은Translate",
     "first_seen": "2025-10-11T06:58:53.802893+00:00",
-    "last_seen": "2025-10-13T04:54:06.855837+00:00"
+    "last_seen": "2025-10-19T20:46:08.064279+00:00"
   },
   "2175": {
     "id": "2175",
@@ -1504,7 +1548,7 @@
     "has_download": false,
     "description": "문제 설명What's wrong with you, Rootsquare?Translate",
     "first_seen": "2025-10-11T06:58:58.864127+00:00",
-    "last_seen": "2025-10-13T04:54:06.855839+00:00"
+    "last_seen": "2025-10-19T20:46:11.453711+00:00"
   },
   "2173": {
     "id": "2173",
@@ -1515,29 +1559,29 @@
     "has_download": false,
     "description": "문제 설명The flag was encrypted by an algorithm Strangely enough the code to encrypt seems to have been obfuscated as well Can you decode this and get a flag?(Well... but the time to get a flag depends on luck..)flag formatDH{...}Translate",
     "first_seen": "2025-10-11T06:59:04.182378+00:00",
-    "last_seen": "2025-10-13T04:54:06.855841+00:00"
+    "last_seen": "2025-10-19T20:46:11.453724+00:00"
   },
   "2169": {
     "id": "2169",
     "title": "EZ-Cube",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2169",
     "category": "crypto",
-    "difficulty": "20",
+    "difficulty": "21",
     "has_download": false,
     "description": "문제 설명AES 근데 이제 쓸데없이 확장한Translate",
     "first_seen": "2025-10-11T06:59:08.730534+00:00",
-    "last_seen": "2025-10-13T04:54:06.855843+00:00"
+    "last_seen": "2025-10-19T20:46:11.453732+00:00"
   },
   "2168": {
     "id": "2168",
     "title": "EZ-Oracle",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2168",
     "category": "crypto",
-    "difficulty": "4",
+    "difficulty": "6",
     "has_download": false,
     "description": "문제 설명이런.. 서버가 너무 많은 정보를 알려주는군요..# 풀이 속도 감소를 위해 다소 로직을 수정했습니다.Translate",
     "first_seen": "2025-10-11T06:59:12.931764+00:00",
-    "last_seen": "2025-10-13T04:54:06.855845+00:00"
+    "last_seen": "2025-10-19T20:46:11.453741+00:00"
   },
   "2167": {
     "id": "2167",
@@ -1548,18 +1592,18 @@
     "has_download": false,
     "description": "문제 설명Time to learnAngr.Tame the constraints.If you’re new, conquerAngrStartfirst.Translate",
     "first_seen": "2025-10-11T06:59:20.334401+00:00",
-    "last_seen": "2025-10-13T04:54:10.417234+00:00"
+    "last_seen": "2025-10-19T20:46:11.453743+00:00"
   },
   "2166": {
     "id": "2166",
     "title": "optimizer",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2166",
     "category": "web",
-    "difficulty": "14",
+    "difficulty": "15",
     "has_download": false,
     "description": "문제 설명Your image is too large? Don't worry, my website is for you2025.08.06 Updated: Make unnecessary files private and add required folders.Translate",
     "first_seen": "2025-10-11T06:59:26.414829+00:00",
-    "last_seen": "2025-10-13T04:54:10.417247+00:00"
+    "last_seen": "2025-10-19T20:46:11.453746+00:00"
   },
   "2162": {
     "id": "2162",
@@ -1570,7 +1614,7 @@
     "has_download": false,
     "description": "문제 설명Horsey say : yee hawTranslate",
     "first_seen": "2025-10-11T06:59:36.737528+00:00",
-    "last_seen": "2025-10-13T04:54:10.417256+00:00"
+    "last_seen": "2025-10-19T20:46:11.453748+00:00"
   },
   "2161": {
     "id": "2161",
@@ -1581,7 +1625,7 @@
     "has_download": false,
     "description": "문제 설명Time to learnAngr.Tame the constraints.Translate",
     "first_seen": "2025-10-11T06:59:45.047550+00:00",
-    "last_seen": "2025-10-13T04:54:10.417264+00:00"
+    "last_seen": "2025-10-19T20:46:11.453750+00:00"
   },
   "2160": {
     "id": "2160",
@@ -1592,7 +1636,7 @@
     "has_download": false,
     "description": "문제 설명암호학 입문자가 많기를 바라는 저는 튜토리얼 문제를 많이 낼 생각입니다! 감사합니다. ^3^Translate",
     "first_seen": "2025-10-11T06:59:57.200005+00:00",
-    "last_seen": "2025-10-13T04:54:10.417266+00:00"
+    "last_seen": "2025-10-19T20:46:11.453753+00:00"
   },
   "2157": {
     "id": "2157",
@@ -1603,7 +1647,7 @@
     "has_download": false,
     "description": "문제 설명It looks like a normal notepad but something seems wrongCan I get a flag through the oddities?flag formatDH{...}, flag atflag.txtTranslate",
     "first_seen": "2025-10-11T07:00:03.323006+00:00",
-    "last_seen": "2025-10-13T04:54:10.417269+00:00"
+    "last_seen": "2025-10-19T20:46:11.453755+00:00"
   },
   "2154": {
     "id": "2154",
@@ -1614,7 +1658,7 @@
     "has_download": false,
     "description": "문제 설명Don't. touch. anything.Show your patience.Koreans cannot complete this, right?NoteThis is just a stereotype or meme about Koreans! Not all Koreans are impatient. Are you patient enough?Translate",
     "first_seen": "2025-10-11T07:00:09.417504+00:00",
-    "last_seen": "2025-10-13T04:54:10.417271+00:00"
+    "last_seen": "2025-10-19T20:46:11.453757+00:00"
   },
   "2153": {
     "id": "2153",
@@ -1625,7 +1669,7 @@
     "has_download": false,
     "description": "문제 설명This Casino is LEGAL! Our casino complies with the Gaming Industry Act of South Korea and uses a cryptographically secure random number generator.Prove your true luck and get a flag!Translate",
     "first_seen": "2025-10-11T07:00:13.382932+00:00",
-    "last_seen": "2025-10-13T04:54:10.417273+00:00"
+    "last_seen": "2025-10-19T20:46:11.453759+00:00"
   },
   "2152": {
     "id": "2152",
@@ -1636,51 +1680,51 @@
     "has_download": false,
     "description": "문제 설명Gambling is fun! Aren't you?NoteI do not promote illegal gambling.Translate",
     "first_seen": "2025-10-11T07:00:17.252121+00:00",
-    "last_seen": "2025-10-13T04:54:10.417276+00:00"
+    "last_seen": "2025-10-19T20:46:11.453762+00:00"
   },
   "2151": {
     "id": "2151",
     "title": "Hidden",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2151",
     "category": "forensics",
-    "difficulty": "76",
+    "difficulty": "78",
     "has_download": false,
     "description": "문제 설명The image looks mediocre but there seems to be something hiddenflag formatDH{...}Translate",
     "first_seen": "2025-10-11T07:00:21.235664+00:00",
-    "last_seen": "2025-10-13T04:54:10.417278+00:00"
+    "last_seen": "2025-10-19T20:46:11.453764+00:00"
   },
   "2150": {
     "id": "2150",
     "title": "정ㅋ벅ㅋ",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2150",
     "category": "misc",
-    "difficulty": "199",
+    "difficulty": "202",
     "has_download": false,
     "description": "문제 설명이 문제를 푸는 자 드림핵을 정ㅋ벅ㅋ 한다.정ㅋ벅ㅋ 했으면, Flag를DH{}형식에 넣어 제출하라.Translate",
     "first_seen": "2025-10-11T07:00:25.548705+00:00",
-    "last_seen": "2025-10-13T04:54:10.417279+00:00"
+    "last_seen": "2025-10-19T20:46:11.453766+00:00"
   },
   "2149": {
     "id": "2149",
     "title": "NebulaSh",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2149",
     "category": "crypto",
-    "difficulty": "16",
+    "difficulty": "17",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #15 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionMerkle-Hellman is so weak...Translate",
     "first_seen": "2025-10-11T07:00:32.689028+00:00",
-    "last_seen": "2025-10-13T04:54:10.417283+00:00"
+    "last_seen": "2025-10-19T20:46:11.453770+00:00"
   },
   "2148": {
     "id": "2148",
     "title": "Admin Feature",
     "challenge_url": "https://dreamhack.io/wargame/challenges/2148",
     "category": "web",
-    "difficulty": "45",
+    "difficulty": "46",
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #15 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionThis is an admin feature.Translate",
     "first_seen": "2025-10-11T07:00:36.483471+00:00",
-    "last_seen": "2025-10-13T04:54:10.417285+00:00"
+    "last_seen": "2025-10-19T20:46:11.453773+00:00"
   },
   "2147": {
     "id": "2147",
@@ -1691,7 +1735,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #15 (🚩Div1)\n      에 출제된 문제입니다.문제 설명Description🦀 This crab may replace C in the future. Let's reverse it before the era of the crab arrives!Translate",
     "first_seen": "2025-10-11T07:00:40.267515+00:00",
-    "last_seen": "2025-10-13T04:54:10.417287+00:00"
+    "last_seen": "2025-10-19T20:46:11.453775+00:00"
   },
   "2146": {
     "id": "2146",
@@ -1702,7 +1746,7 @@
     "has_download": false,
     "description": "해당 문제는 \n        Dreamhack CTF Season 7 Round #15 (🚩Div1)\n      에 출제된 문제입니다.문제 설명DescriptionYou reap what you sow.Translate",
     "first_seen": "2025-10-11T07:00:44.233818+00:00",
-    "last_seen": "2025-10-13T04:54:10.417289+00:00"
+    "last_seen": "2025-10-19T20:46:11.453777+00:00"
   },
   "2145": {
     "id": "2145",
@@ -1713,7 +1757,7 @@
     "has_download": false,
     "description": "문제 설명For some reason a flag image was cut in half Can you find the reason and get the flag?Translate",
     "first_seen": "2025-10-11T07:00:29.217231+00:00",
-    "last_seen": "2025-10-13T04:54:10.417281+00:00"
+    "last_seen": "2025-10-19T20:46:11.453768+00:00"
   },
   "2142": {
     "id": "2142",
@@ -14179,3 +14223,4 @@
     "last_seen": "2025-10-13T04:58:37.656315+00:00"
   }
 }
+
