@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dreamhack-local"
+version = "0.1.0"
+description = "Local-only DreamHack crawler, downloader, CLI, and localhost API."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "fastapi>=0.115",
+  "lxml>=5.2",
+  "pydantic>=2.7",
+  "pydantic-settings>=2.2",
+  "requests>=2.32",
+  "typer>=0.12",
+  "uvicorn>=0.30",
+]
+
+[project.optional-dependencies]
+dev = ["httpx>=0.27", "pytest>=8.2"]
+playwright = ["playwright>=1.45"]
+
+[project.scripts]
+dh = "dreamhack_local.cli.app:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

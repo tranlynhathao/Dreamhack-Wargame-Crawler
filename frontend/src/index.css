@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 30% 98%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 199 89% 48%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 210 40% 96%;
+    --accent-foreground: 222 47% 11%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 210 40% 98%;
+    --success: 142 71% 45%;
+    --success-foreground: 210 40% 98%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 222 47% 11%;
+    --border: 214 20% 88%;
+    --input: 214 20% 88%;
+    --ring: 199 89% 48%;
+    --radius: 0.625rem;
+  }
+
+  .dark {
+    --background: 222 32% 7%;
+    --foreground: 210 40% 96%;
+    --card: 222 28% 10%;
+    --card-foreground: 210 40% 96%;
+    --popover: 222 28% 10%;
+    --popover-foreground: 210 40% 96%;
+    --primary: 199 89% 55%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 217 25% 16%;
+    --secondary-foreground: 210 40% 96%;
+    --muted: 217 25% 14%;
+    --muted-foreground: 217 15% 62%;
+    --accent: 217 25% 16%;
+    --accent-foreground: 210 40% 96%;
+    --destructive: 0 72% 55%;
+    --destructive-foreground: 210 40% 98%;
+    --success: 142 60% 48%;
+    --success-foreground: 210 40% 98%;
+    --warning: 38 92% 55%;
+    --warning-foreground: 222 47% 11%;
+    --border: 217 25% 18%;
+    --input: 217 25% 18%;
+    --ring: 199 89% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings:
+      "rlig" 1,
+      "calt" 1,
+      "cv11" 1,
+      "ss01" 1;
+  }
+  code,
+  pre,
+  .mono {
+    font-family: theme("fontFamily.mono");
+  }
+}
+
+@layer components {
+  .glass {
+    background: linear-gradient(180deg, hsl(var(--card) / 0.9), hsl(var(--card) / 0.75));
+    backdrop-filter: blur(10px);
+  }
+  .grid-bg {
+    background-image: radial-gradient(circle at 1px 1px, hsl(var(--muted-foreground) / 0.12) 1px, transparent 0);
+    background-size: 18px 18px;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted));
+    border-radius: 8px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+.shimmer {
+  position: relative;
+  overflow: hidden;
+}
+.shimmer::after {
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(90deg, transparent, hsl(var(--muted-foreground) / 0.08), transparent);
+  animation: shimmer 1.4s infinite;
+  content: "";
+}
+
+.description-html {
+  @apply text-sm leading-relaxed text-foreground/90;
+}
+.description-html h1,
+.description-html h2,
+.description-html h3 {
+  @apply font-semibold mt-4 mb-2 text-foreground;
+}
+.description-html p {
+  @apply my-2;
+}
+.description-html a {
+  @apply text-primary underline underline-offset-2;
+}
+.description-html code {
+  @apply rounded bg-muted px-1.5 py-0.5 text-[0.85em] text-foreground;
+}
+.description-html pre {
+  @apply my-3 overflow-x-auto rounded-md border border-border bg-muted/50 p-3 text-xs;
+}
+.description-html ul {
+  @apply my-2 list-disc pl-5 space-y-1;
+}
+.description-html ol {
+  @apply my-2 list-decimal pl-5 space-y-1;
+}
+.description-html img {
+  @apply my-2 max-w-full rounded-md border border-border;
+}

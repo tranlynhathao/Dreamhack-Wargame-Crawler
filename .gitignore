@@ -112,6 +112,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
 
 # Spyder project settings
 .spyderproject
@@ -145,9 +150,18 @@ Thumbs.db
 crawler.log
 *.tmp
 sample_data.json
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.db-journal
+data/*.sqlite-journal
 
 # Legacy files (can be removed after transition)
 # config.py
 # models.py
 # utils.py
 # test_crawler.py
+
+Cryptography/
+Reverse_Engineering/
+Web3/
